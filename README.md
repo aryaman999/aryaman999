@@ -24,6 +24,9 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 
 [linkedin]: https://www.linkedin.com/in/aryaman-rawat-5a16aa187/
+[Instagram]: https://www.instagram.com/aryaman_910?igsh=NGIwdmR1NmV1dnds&utm_source=qr
