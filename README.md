@@ -9,7 +9,7 @@
  
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-<h2>👨‍💻 Certifications:</h2>
+<h2>📄 Certifications:</h2>
 
 - [Google CyberSecurity Certificate](https://coursera.org/share/b9fa8dd4236617a3e64c3c22e3dd8087)
 
