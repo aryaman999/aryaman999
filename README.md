@@ -13,6 +13,9 @@
  
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
+- <b>Cybersecurity Project(WireShark)</b>
+  - [IY2840 Project](https://github.com/aryaman999/IY2840-Network-Attacks)
+
 <h2>📄 Certifications:</h2>
 
 - [Google CyberSecurity Certificate](https://coursera.org/share/b9fa8dd4236617a3e64c3c22e3dd8087)
