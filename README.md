@@ -19,6 +19,7 @@
 <h2>📄 Certifications:</h2>
 
 - [Google CyberSecurity Certificate](https://coursera.org/share/b9fa8dd4236617a3e64c3c22e3dd8087)
+- [Google IT Support Certificate](https://coursera.org/share/29ea3ac3fc062e3ac36ae8520c38ee71)
 
 
 <h2>📺 Project Demo</h2>
