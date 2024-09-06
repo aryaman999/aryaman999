@@ -1,6 +1,9 @@
 <h1>Hi, I'm Aryaman! <br/>
 
 <h2>👨‍💻 Data Analytics Projects</h2>
+- <b>Data Analysis Python</b>
+  - [Data Analysis Project](https://github.com/aryaman999/SalesReportAnalysis)
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
